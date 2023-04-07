@@ -1,0 +1,25 @@
+h1{
+    color:beige;
+    font-size:100%;
+    font-style: italic;
+}
+.kk{
+    color:rgb(52, 236, 181);
+    background-color:blueviolet;
+}
+
+body{
+    background-image: url(oo.jpeg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+tr{
+    list-style-type:lower-roman
+}
+
+
+
